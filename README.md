@@ -1,4 +1,10 @@
 # note
+http://blog.csdn.net/u013761036/article/details/61467912
+http://blog.csdn.net/kingswb/article/details/51468675
+http://blog.csdn.net/swanabin/article/details/16858413
+https://www.52pojie.cn/thread-245482-1-1.html
+https://bbs.pediy.com/thread-159743.htm
+https://bbs.pediy.com/thread-185786.htm
 http://www.freebuf.com/news/138216.html
 https://www.anquanke.com/post/id/86928
 https://www.anquanke.com/post/id/86821
