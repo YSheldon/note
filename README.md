@@ -1,3 +1,10 @@
+http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_stuxnet_dossier.pdf
+http://www.geoffchappell.com/notes/security/stuxnet/mrxcls.htm
+https://www.codeproject.com/Articles/246545/Stuxnet-Malware-Analysis-Paper
+https://bbs.pediy.com/thread-121662.htm
+https://bbs.pediy.com/thread-195890.htm
+https://www.f-secure.com/v-descs/trojan-dropper_w32_stuxnet.shtml
+
 Windows 中的三种对象
 http://blog.csdn.net/qq_18218335/article/details/78143724
 
