@@ -6,6 +6,8 @@ https://bbs.pediy.com/thread-121662.htm
 https://bbs.pediy.com/thread-195890.htm
 https://www.f-secure.com/v-descs/trojan-dropper_w32_stuxnet.shtml
 
+http://netinfo-security.org/article/2015/1671-1122-0-9-139.html
+
 Windows 中的三种对象
 http://blog.csdn.net/qq_18218335/article/details/78143724
 
