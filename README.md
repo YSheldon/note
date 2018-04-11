@@ -1,3 +1,5 @@
+http://resources.infosecinstitute.com/windows-gui-memory-forensics-clipboard-windows-atoms-message-and-event-hooks/
+
 http://www.doc88.com/p-1542101616393.html
 http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_stuxnet_dossier.pdf
 http://www.geoffchappell.com/notes/security/stuxnet/mrxcls.htm
