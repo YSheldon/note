@@ -47,3 +47,24 @@ https://ipot.sec-wiki.com/article/2017-05-23-construct-honeypot.html
 
 
 http://standa-note.blogspot.ca/2015/03/section-based-code-injection-and-its.html
+
+https://mp.weixin.qq.com/s/WMfCNN095-PpM0VB_pRESg
+https://github.com/AiGangJingYe/Analysis-Tools
+http://blog.nsfocus.net/ida-stack-pointer/
+https://github.com/shmilylty/Malware-Analysis-Tools
+https://bbs.ichunqiu.com/thread-18052-1-1.html
+https://zhuanlan.zhihu.com/p/68538874
+https://blog.51cto.com/ghfhou/2287818
+http://www.cppblog.com/tqsheng/archive/2008/01/24/41796.html
+https://www.jtianling.com/%E9%BB%91%E5%AE%A2%E8%B0%83%E8%AF%95%E6%8A%80%E6%9C%AF%E6%8F%AD%E7%A7%98-hacker-debugging-uncovered-%E5%AD%A6%E4%B9%A0-1-%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E5%AF%86%E7%A0%81%E4%BF%9D%E6%8A%A4%E7%A0%B4%E8%A7%A3.html
+https://www.dbgpro.com/archives/433.html
+https://www.secpulse.com/archives/95436.html
+https://zhuanlan.zhihu.com/p/47701596
+https://www.zhihu.com/question/304536164/answer/560031467
+
+https://bbs.pediy.com/thread-253450.htm
+http://www.chinaqking.com/%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/2009/26934.html
+https://blog.csdn.net/iiprogram/article/details/2257168
+https://www.52pojie.cn/thread-436995-1-1.html
+https://www.doc88.com/p-4773402520745.html
+https://bbs.pediy.com/thread-247488.htm
