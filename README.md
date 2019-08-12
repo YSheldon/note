@@ -1,3 +1,12 @@
+VT
+https://bbs.pediy.com/thread-192237.htm
+https://bbs.pediy.com/thread-96122.htm
+https://www.xuebuyuan.com/1280519.html
+http://www.360doc.com/content/09/0608/08/64805_3810084.shtml
+http://www.doc88.com/p-0314347096482.html
+
+http://blog.nsfocus.net/flare-on-5th-writeup/
+
 在调试器里看Windows 10的Linux子系统http://www.sohu.com/a/145513478_163588
 
 http://resources.infosecinstitute.com/windows-gui-memory-forensics-clipboard-windows-atoms-message-and-event-hooks/
