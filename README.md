@@ -1,3 +1,7 @@
+ALPC:
+https://blog.csdn.net/feivirus/article/details/50526320
+https://bbs.pediy.com/thread-172274.htm
+
 VT
 https://bbs.pediy.com/thread-192237.htm
 https://bbs.pediy.com/thread-96122.htm
