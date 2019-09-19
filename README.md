@@ -3,6 +3,8 @@ https://blog.csdn.net/feivirus/article/details/50526320
 https://bbs.pediy.com/thread-172274.htm
 https://reverseengineering.stackexchange.com/questions/8116/at-the-rpcrt4ndrclientcall2-function-how-does-it-know-which-pipe-to-use-in-or
 
+https://bbs.pediy.com/thread-251158.htm
+
 VT
 https://bbs.pediy.com/thread-192237.htm
 https://bbs.pediy.com/thread-96122.htm
