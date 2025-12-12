@@ -1,3 +1,6 @@
+ETW:
+Microsoft-Windows-Winsock-AFD
+
 ALPC:
 https://blog.csdn.net/feivirus/article/details/50526320
 https://bbs.pediy.com/thread-172274.htm
