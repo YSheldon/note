@@ -1,3 +1,5 @@
+https://github.com/rhboot/pesign.git
+
 ETW:
 Microsoft-Windows-Winsock-AFD
 
