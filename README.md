@@ -1,3 +1,5 @@
+https://mirror.gpmidi.net/vx-underground/Papers/Windows/Kernel%20Mode/
+
 https://github.com/rhboot/pesign.git
 
 ETW:
